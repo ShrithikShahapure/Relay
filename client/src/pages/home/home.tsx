@@ -90,14 +90,6 @@ export const Home = () => {
 
   return (
     <div className={styles.home}>
-      <a
-        aria-label="Link to Github profile"
-        href="https://github.com/rohitman47"
-        target="_blank"
-        className={styles.githubLink}
-      >
-        <GithubIcon />
-      </a>
       <section className={styles.banner} role="banner" aria-label="Page banner">
         <div className={styles.appName}>
           <p>Relay</p>
