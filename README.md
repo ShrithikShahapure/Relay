@@ -84,6 +84,7 @@ Delete username of the client from database when leaving room.
 ## Authors
 
 - [@rohitman47](https://www.github.com/rohitman47)
+- [@ShrithikShahapure](https://github.com/ShrithikShahapure)
 
 ## Tech Stack
 
