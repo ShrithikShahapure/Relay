@@ -116,7 +116,7 @@ Delete username of the client from database when leaving room.
 Clone the project
 
 ```bash
-  git clone https://github.com/rohitman47/relay.git
+  git clone https://github.com/ShrithikShahapure/Relay.git
 ```
 
 Go to the project directory
